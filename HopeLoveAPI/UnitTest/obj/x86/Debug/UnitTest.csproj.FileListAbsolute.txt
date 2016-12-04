@@ -1,0 +1,13 @@
+E:\Artificial Intelligence\Project\HopeLoveAPI\UnitTest\bin\x86\Debug\UnitTest.dll
+E:\Artificial Intelligence\Project\HopeLoveAPI\UnitTest\bin\x86\Debug\UnitTest.pdb
+E:\Artificial Intelligence\Project\HopeLoveAPI\UnitTest\bin\x86\Debug\HopeLoveDotNetAPI.dll
+E:\Artificial Intelligence\Project\HopeLoveAPI\UnitTest\bin\x86\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Artificial Intelligence\Project\HopeLoveAPI\UnitTest\bin\x86\Debug\APIManaged.dll
+E:\Artificial Intelligence\Project\HopeLoveAPI\UnitTest\bin\x86\Debug\HopeLoveDotNetAPI.pdb
+E:\Artificial Intelligence\Project\HopeLoveAPI\UnitTest\bin\x86\Debug\APIManaged.pdb
+E:\Artificial Intelligence\Project\HopeLoveAPI\UnitTest\bin\x86\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\Artificial Intelligence\Project\HopeLoveAPI\UnitTest\obj\x86\Debug\UnitTest.csprojResolveAssemblyReference.cache
+E:\Artificial Intelligence\Project\HopeLoveAPI\UnitTest\obj\x86\Debug\UnitTest.dll
+E:\Artificial Intelligence\Project\HopeLoveAPI\UnitTest\obj\x86\Debug\UnitTest.pdb
+E:\Artificial Intelligence\Project\HopeLoveAPI\Debug\UnitTest.dll
+E:\Artificial Intelligence\Project\HopeLoveAPI\Debug\UnitTest.pdb

@@ -1,0 +1,5 @@
+E:\Artificial Intelligence\Project\HopeLoveAPI\Debug\HopeLoveDotNetAPI.dll
+E:\Artificial Intelligence\Project\HopeLoveAPI\Debug\HopeLoveDotNetAPI.pdb
+E:\Artificial Intelligence\Project\HopeLoveAPI\HopeLoveDotNetAPI\obj\x86\Debug\HopeLoveDotNetAPI.csprojResolveAssemblyReference.cache
+E:\Artificial Intelligence\Project\HopeLoveAPI\HopeLoveDotNetAPI\obj\x86\Debug\HopeLoveDotNetAPI.dll
+E:\Artificial Intelligence\Project\HopeLoveAPI\HopeLoveDotNetAPI\obj\x86\Debug\HopeLoveDotNetAPI.pdb

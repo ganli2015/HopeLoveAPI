@@ -1,0 +1,11 @@
+1 class DataCollection::Punctuations+
+2 class DataCollection::Character+
+3 class DataCollection::Character+
+4 class DataCollection::Character+
+5 class DataCollection::Character+
+6 class DataCollection::Character+
+7 class DataCollection::Character+
+8 class DataCollection::Character+
+9 class DataCollection::Character+
+10 class DataCollection::Character+
+11 class DataCollection::Character+
